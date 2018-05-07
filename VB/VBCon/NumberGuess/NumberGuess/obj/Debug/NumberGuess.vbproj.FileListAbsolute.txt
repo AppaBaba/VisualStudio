@@ -1,0 +1,19 @@
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\NumberGuess\NumberGuess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.Resources.resources
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.vbproj.GenerateResource.Cache
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.xml
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.xml
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.xml
+C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.vbprojResolveAssemblyReference.cache
+C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.Resources.resources
+C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.xml
+C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb

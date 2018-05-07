@@ -1,0 +1,19 @@
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\YourName\YourName\bin\Debug\YourName.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\YourName\YourName\bin\Debug\YourName.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\YourName\YourName\bin\Debug\YourName.xml
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\YourName\YourName\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\YourName\YourName\obj\Debug\YourName.Resources.resources
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\YourName\YourName\obj\Debug\YourName.vbproj.GenerateResource.Cache
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\YourName\YourName\obj\Debug\YourName.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\YourName\YourName\obj\Debug\YourName.xml
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\YourName\YourName\obj\Debug\YourName.pdb
+C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\obj\Debug\YourName.vbprojResolveAssemblyReference.cache
+C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\obj\Debug\YourName.Resources.resources
+C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\obj\Debug\YourName.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\obj\Debug\YourName.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\obj\Debug\YourName.exe
+C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\obj\Debug\YourName.xml
+C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\obj\Debug\YourName.pdb
+C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\bin\Debug\YourName.exe
+C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\bin\Debug\YourName.pdb
+C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\bin\Debug\YourName.xml

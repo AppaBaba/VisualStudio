@@ -1,0 +1,5 @@
+﻿'NumberGuess.exe' (CLR v2.0.50727: DefaultDomain): Loaded 'C:\WINDOWS\assembly\GAC_64\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'NumberGuess.exe' (CLR v2.0.50727: DefaultDomain): Loaded 'C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe'. Symbols loaded.
+'NumberGuess.exe' (CLR v2.0.50727: NumberGuess.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualBasic\8.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualBasic.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'NumberGuess.exe' (CLR v2.0.50727: NumberGuess.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The program '[5592] NumberGuess.exe' has exited with code -1073741510 (0xc000013a).

@@ -1,0 +1,10 @@
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyFirstWinApp\bin\Debug\MyFirstWinApp.exe
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyFirstWinApp\bin\Debug\MyFirstWinApp.pdb
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyFirstWinApp\bin\Debug\MyFirstWinApp.xml
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyFirstWinApp\obj\Debug\MyFirstWinApp.vbprojResolveAssemblyReference.cache
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyFirstWinApp\obj\Debug\MyFirstWinApp.Resources.resources
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyFirstWinApp\obj\Debug\MyFirstWinApp.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyFirstWinApp\obj\Debug\MyFirstWinApp.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyFirstWinApp\obj\Debug\MyFirstWinApp.exe
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyFirstWinApp\obj\Debug\MyFirstWinApp.xml
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyFirstWinApp\obj\Debug\MyFirstWinApp.pdb

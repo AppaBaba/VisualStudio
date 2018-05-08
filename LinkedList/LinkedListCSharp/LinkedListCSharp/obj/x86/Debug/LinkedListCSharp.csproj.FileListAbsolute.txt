@@ -1,0 +1,11 @@
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.pdb
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.exe
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.pdb
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.csprojResolveAssemblyReference.cache
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.csproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.exe
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.pdb

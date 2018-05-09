@@ -1,0 +1,24 @@
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\bin\Debug\FSConApp.exe.config
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\bin\Debug\FSConApp.XML
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\bin\Debug\FSConApp.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\bin\Debug\FSConApp.pdb
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\bin\Debug\FSharp.Core.dll
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\bin\Debug\System.ValueTuple.dll
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\bin\Debug\FSharp.Core.xml
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\bin\Debug\System.ValueTuple.xml
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\obj\Debug\FSConApp.fsprojAssemblyReference.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\obj\Debug\FSConApp.fsproj.CopyComplete
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\obj\Debug\FSConApp.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\FSConApp\FSConApp\obj\Debug\FSConApp.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\bin\Debug\FSConApp.exe.config
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\bin\Debug\FSConApp.XML
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\bin\Debug\FSConApp.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\bin\Debug\FSConApp.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\bin\Debug\FSharp.Core.dll
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\bin\Debug\System.ValueTuple.dll
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\bin\Debug\FSharp.Core.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\bin\Debug\System.ValueTuple.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\obj\Debug\FSConApp.fsprojAssemblyReference.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\obj\Debug\FSConApp.fsproj.CopyComplete
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\obj\Debug\FSConApp.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\FSCon\FSConApp\FSConApp\obj\Debug\FSConApp.pdb

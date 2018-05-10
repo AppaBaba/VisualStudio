@@ -3,8 +3,10 @@
     "",
     "\\Console",
     "\\Console\\FSCon",
-    "\\Console\\FSCon\\FSConApp"
+    "\\Console\\FSCon\\FSConApp",
+    "\\Console\\FSCon\\FSConApp\\FSConApp",
+    "\\Console\\FSCon\\FSConApp\\FSConApp\\bin"
   ],
-  "SelectedNode": "\\Console\\FSCon\\FSConApp\\FSConApp.sln",
+  "SelectedNode": "\\Console\\FSCon\\FSConApp",
   "PreviewInSolutionExplorer": false
 }

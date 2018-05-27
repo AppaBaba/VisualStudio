@@ -1,0 +1,29 @@
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\GiveMeYourName\YourName\bin\Debug\YourName.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\GiveMeYourName\YourName\bin\Debug\YourName.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\GiveMeYourName\YourName\bin\Debug\YourName.xml
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\GiveMeYourName\YourName\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\GiveMeYourName\YourName\obj\Debug\YourName.Resources.resources
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\GiveMeYourName\YourName\obj\Debug\GiveMeYourName.vbproj.GenerateResource.Cache
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\GiveMeYourName\YourName\obj\Debug\YourName.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\GiveMeYourName\YourName\obj\Debug\YourName.xml
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\GiveMeYourName\YourName\obj\Debug\YourName.pdb
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\GiveMeYourName\YourName\bin\Debug\YourName.exe
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\GiveMeYourName\YourName\bin\Debug\YourName.pdb
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\GiveMeYourName\YourName\bin\Debug\YourName.xml
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\GiveMeYourName\YourName\obj\Debug\GiveMeYourName.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\GiveMeYourName\YourName\obj\Debug\YourName.Resources.resources
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\GiveMeYourName\YourName\obj\Debug\GiveMeYourName.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\GiveMeYourName\YourName\obj\Debug\GiveMeYourName.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\GiveMeYourName\YourName\obj\Debug\YourName.exe
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\GiveMeYourName\YourName\obj\Debug\YourName.xml
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\GiveMeYourName\YourName\obj\Debug\YourName.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\CSCon\GiveMeYourName\YourName\bin\Debug\YourName.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\CSCon\GiveMeYourName\YourName\bin\Debug\YourName.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\CSCon\GiveMeYourName\YourName\bin\Debug\YourName.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\CSCon\GiveMeYourName\YourName\obj\Debug\GiveMeYourName.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\CSCon\GiveMeYourName\YourName\obj\Debug\YourName.Resources.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\CSCon\GiveMeYourName\YourName\obj\Debug\GiveMeYourName.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\CSCon\GiveMeYourName\YourName\obj\Debug\GiveMeYourName.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\CSCon\GiveMeYourName\YourName\obj\Debug\YourName.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\CSCon\GiveMeYourName\YourName\obj\Debug\YourName.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\CSCon\GiveMeYourName\YourName\obj\Debug\YourName.pdb

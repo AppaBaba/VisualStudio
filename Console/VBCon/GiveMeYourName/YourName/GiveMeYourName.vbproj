@@ -7,9 +7,9 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{B4E4D0D1-341A-4D55-828D-AD30BCEBB733}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>YourName.GiveMeYourName</StartupObject>
-    <RootNamespace>YourName</RootNamespace>
-    <AssemblyName>YourName</AssemblyName>
+    <StartupObject>GiveMeYourName.GiveMeYourName</StartupObject>
+    <RootNamespace>GiveMeYourName</RootNamespace>
+    <AssemblyName>GiveMeYourName</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
@@ -30,7 +30,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>YourName.xml</DocumentationFile>
+    <DocumentationFile>GiveMeYourName.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
@@ -40,7 +40,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>YourName.xml</DocumentationFile>
+    <DocumentationFile>GiveMeYourName.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>

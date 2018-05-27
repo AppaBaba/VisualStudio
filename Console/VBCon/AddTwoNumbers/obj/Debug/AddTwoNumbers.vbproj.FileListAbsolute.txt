@@ -1,0 +1,19 @@
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Lachlanh\AddTwoNumbers\bin\Debug\AddToNumbers.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Lachlanh\AddTwoNumbers\bin\Debug\AddToNumbers.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Lachlanh\AddTwoNumbers\bin\Debug\AddToNumbers.xml
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Lachlanh\AddTwoNumbers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Lachlanh\AddTwoNumbers\obj\Debug\AddToNumbers.Resources.resources
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Lachlanh\AddTwoNumbers\obj\Debug\AddTwoNumbers.vbproj.GenerateResource.Cache
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Lachlanh\AddTwoNumbers\obj\Debug\AddToNumbers.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Lachlanh\AddTwoNumbers\obj\Debug\AddToNumbers.xml
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Lachlanh\AddTwoNumbers\obj\Debug\AddToNumbers.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\AddTwoNumbers\bin\Debug\AddToNumbers.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\AddTwoNumbers\bin\Debug\AddToNumbers.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\AddTwoNumbers\bin\Debug\AddToNumbers.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\AddTwoNumbers\obj\Debug\AddTwoNumbers.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\AddTwoNumbers\obj\Debug\AddToNumbers.Resources.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\AddTwoNumbers\obj\Debug\AddTwoNumbers.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\AddTwoNumbers\obj\Debug\AddTwoNumbers.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\AddTwoNumbers\obj\Debug\AddToNumbers.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\AddTwoNumbers\obj\Debug\AddToNumbers.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\AddTwoNumbers\obj\Debug\AddToNumbers.pdb

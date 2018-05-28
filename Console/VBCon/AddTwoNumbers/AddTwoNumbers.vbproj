@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{7B445CE7-AAA2-4DBD-B6A4-CB1B0886A060}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>AddToNumbers.Module1</StartupObject>
+    <StartupObject>AddToNumbers.AddTwoNumbers</StartupObject>
     <RootNamespace>AddToNumbers</RootNamespace>
     <AssemblyName>AddToNumbers</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -73,7 +73,7 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module1.vb" />
+    <Compile Include="AddTwoNumbers.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>

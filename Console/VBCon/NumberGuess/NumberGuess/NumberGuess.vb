@@ -2,7 +2,7 @@
 
 
 
-Module Module1
+Module NumberGuess
 
     Sub Main()
         Console.WriteLine("")

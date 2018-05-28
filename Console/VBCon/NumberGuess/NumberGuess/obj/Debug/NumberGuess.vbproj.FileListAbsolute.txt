@@ -17,3 +17,14 @@ C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\Numbe
 C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
 C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.xml
 C:\Users\darel\Documents\VS2008\Projects\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe.config
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\bin\Debug\NumberGuess.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\bin\Debug\NumberGuess.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\obj\Debug\NumberGuess.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\obj\Debug\NumberGuess.Resources.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\obj\Debug\NumberGuess.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\obj\Debug\NumberGuess.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\obj\Debug\NumberGuess.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\obj\Debug\NumberGuess.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\NumberGuess\NumberGuess\obj\Debug\NumberGuess.pdb

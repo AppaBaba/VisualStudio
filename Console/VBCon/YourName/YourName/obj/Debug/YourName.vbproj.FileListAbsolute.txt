@@ -17,3 +17,14 @@ C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\obj\Debug\YourName.pd
 C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\bin\Debug\YourName.exe
 C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\bin\Debug\YourName.pdb
 C:\Users\darel\Documents\VS2008\Projects\YourName\YourName\bin\Debug\YourName.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\bin\Debug\YourName.exe.config
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\bin\Debug\YourName.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\bin\Debug\YourName.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\bin\Debug\YourName.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\obj\Debug\YourName.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\obj\Debug\YourName.Resources.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\obj\Debug\YourName.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\obj\Debug\YourName.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\obj\Debug\YourName.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\obj\Debug\YourName.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\YourName\YourName\obj\Debug\YourName.pdb

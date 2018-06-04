@@ -1,0 +1,12 @@
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\bin\Debug\DeltaForce.exe.config
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\bin\Debug\DeltaForce.XML
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\bin\Debug\DeltaForce.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\bin\Debug\DeltaForce.pdb
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\bin\Debug\FSharp.Core.dll
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\bin\Debug\System.ValueTuple.dll
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\bin\Debug\FSharp.Core.xml
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\bin\Debug\System.ValueTuple.xml
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\obj\Debug\DeltaForce.fsprojAssemblyReference.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\obj\Debug\DeltaForce.fsproj.CopyComplete
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\obj\Debug\DeltaForce.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Fsharp\DeltaForce\DeltaForce\obj\Debug\DeltaForce.pdb

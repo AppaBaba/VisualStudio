@@ -1,0 +1,7 @@
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConColor\CSConColor\bin\Release\CSConColor.exe.config
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConColor\CSConColor\bin\Release\CSConColor.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConColor\CSConColor\bin\Release\CSConColor.pdb
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConColor\CSConColor\obj\Release\CSConColor.csprojAssemblyReference.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConColor\CSConColor\obj\Release\CSConColor.csproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConColor\CSConColor\obj\Release\CSConColor.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConColor\CSConColor\obj\Release\CSConColor.pdb

@@ -1,0 +1,7 @@
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConAdd2NumColor\CSConAdd2NumColor\bin\Debug\CSConAdd2NumColor.exe.config
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConAdd2NumColor\CSConAdd2NumColor\bin\Debug\CSConAdd2NumColor.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConAdd2NumColor\CSConAdd2NumColor\bin\Debug\CSConAdd2NumColor.pdb
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\CSConAdd2NumColor.csprojAssemblyReference.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\CSConAdd2NumColor.csproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\CSConAdd2NumColor.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\Console\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\CSConAdd2NumColor.pdb

@@ -19,3 +19,15 @@ C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\Cal2NumApp\obj\Debug\Ca
 C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\Cal2NumApp\obj\Debug\Cal2NumApp.exe
 C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\Cal2NumApp\obj\Debug\Cal2NumApp.xml
 C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\Cal2NumApp\obj\Debug\Cal2NumApp.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\bin\Debug\Cal2NumApp.exe.config
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\bin\Debug\Cal2NumApp.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\bin\Debug\Cal2NumApp.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\bin\Debug\Cal2NumApp.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\obj\Debug\Cal2NumApp.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\obj\Debug\Cal2NumApp.Form1.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\obj\Debug\Cal2NumApp.Resources.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\obj\Debug\Cal2NumApp.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\obj\Debug\Cal2NumApp.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\obj\Debug\Cal2NumApp.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\obj\Debug\Cal2NumApp.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\Cal2NumApp\obj\Debug\Cal2NumApp.pdb

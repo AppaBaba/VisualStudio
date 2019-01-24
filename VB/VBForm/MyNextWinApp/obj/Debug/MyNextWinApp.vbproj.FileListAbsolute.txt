@@ -19,3 +19,15 @@ C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\
 C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.exe
 C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.xml
 C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.exe.config
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.Form1.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.Resources.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.pdb

@@ -1,11 +1,64 @@
-from numpy import arange, sin, pi
+# Python program for plotting dardioids
+
+from numpy import arange, sin, cos, pi
 from pylab import polar, show
 
-astring = input ('Enter a: ')
+ 
+
+# Function to cardioid with sin()
+def cardioidpsin(a, b):  
+    t = arange(0, 2*pi, .01)
+    polar(t, a + (b * sin(t)))
+
+# Function to plot cardioid with -sin() 
+def cardioidnsin(a, b):
+    t = arange(0, 2*pi, .01)
+    polar(t, a + (b * -sin(t)))
+
+
+# Function to plot cardioid with cos()
+def cardioidpcos(a, b):
+    t = arange(0, 2*pi, .01)
+    polar(t, a + (b * cos(t)))
+
+# Function to plot cardioid with -sin()
+def cardioidncos(a, b):
+    t = arange(0, 2*pi, .01)
+    polar(t, a + (b * -cos(t)))
+
+print("Pick Cardioid type -\n"
+		"1. sin\n"
+		"2. -sin\n"
+		"3. cos\n" 
+		"4. -sin\n") 
+
+
+# Take input from the user 
+select = input("Select operations form 1, 2, 3, 4 :") 
+
+# a = int(input("Enter a: ")) 
+# b = int(input("Enter b: "))
+
+# or
+
+astring = input ('Enter a: ')  
 bstring = input ('Enter b: ')
 a = int(astring)
 b = int(bstring)
 
-t = arange(0, 2*pi, .01)
-polar(t, a + (b * sin(t)))
+
+if select == '1': 
+	cardioidpsin(a, b)
+
+elif select == '2': 
+	cardioidnsin(a, b)
+
+elif select == '3': 
+	cardioidpcos(a, b)
+
+elif select == '4': 
+	cardioidncos(a, b)
+else: 
+	print("Invalid input") 
+
 show()

@@ -1,30 +1,40 @@
 # Python program for plotting dardioids
 
 from numpy import arange, sin, cos, pi
-from pylab import polar, show
+from pylab import polar, show, title
 
  
 
 # Function to cardioid with sin()
-def cardioidpsin(a, b):  
+def cardioidpsin(a, b):
     t = arange(0, 2*pi, .01)
     polar(t, a + (b * sin(t)))
+    heading = "%s + %s * sin(t)"%(a, b)
+    title(heading)
 
 # Function to plot cardioid with -sin() 
 def cardioidnsin(a, b):
     t = arange(0, 2*pi, .01)
     polar(t, a + (b * -sin(t)))
+    heading = "%s + %s * -sin(t)"%(a, b)
+    title(heading)
+
+
 
 
 # Function to plot cardioid with cos()
 def cardioidpcos(a, b):
     t = arange(0, 2*pi, .01)
     polar(t, a + (b * cos(t)))
+    heading = "%s + %s * cos(t)"%(a, b)
+    title(heading)
 
 # Function to plot cardioid with -sin()
 def cardioidncos(a, b):
     t = arange(0, 2*pi, .01)
     polar(t, a + (b * -cos(t)))
+    heading = "%s + %s * -cos(t)"%(a, b)
+    title(heading)
 
 print("Pick Cardioid type -\n"
 		"1. sin\n"
@@ -60,5 +70,6 @@ elif select == '4':
 	cardioidncos(a, b)
 else: 
 	print("Invalid input") 
+
 
 show()

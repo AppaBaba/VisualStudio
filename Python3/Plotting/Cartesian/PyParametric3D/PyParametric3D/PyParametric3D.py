@@ -1,6 +1,6 @@
 from mpl_toolkits.mplot3d import Axes3D
 from numpy import linspace, sin, cos, pi
-from pylab import title, figure, figaspect, subplot, plot, legend, show
+from pylab import title, figure, subplot, plot, legend, show
 
 def pramplot(r):
     t = linspace(-4 * pi, 4 * pi, 100)

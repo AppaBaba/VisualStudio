@@ -8,7 +8,6 @@ def pramplot(r):
     y = r * cos(t)
     ax.plot(x, y, z)
 
-# fig = figure(figsize = figaspect(0.75))
 fig = figure()
 
 ax = fig.add_subplot(2, 2, 1, projection='3d')

@@ -1,5 +1,5 @@
-# Python 3.7.4 program for plotting dardioids
-# Works with Anconda3 (5.2.0)
+# Python 3.7.4 program for plotting cardioids
+# Works with Anconda3 (5.2.0) using VS Python Suport
 # Source code can be used in Spyder also
 
 from numpy import arange, sin, cos, pi
@@ -70,4 +70,5 @@ elif select == '4':
 else: 
 	print("Invalid input") 
 
-show()1
+
+show()

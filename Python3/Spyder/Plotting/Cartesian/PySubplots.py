@@ -1,3 +1,7 @@
+# Python 3.7.4 program for plotting
+# Works with Anconda3 (5.2.0) using VS Python Suport
+# Source code can be used in Spyder also
+
 from numpy import exp, sin, arange, pi
 from pylab import figure, subplot, plot, show
 

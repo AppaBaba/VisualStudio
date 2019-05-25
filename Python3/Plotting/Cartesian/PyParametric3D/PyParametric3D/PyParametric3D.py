@@ -1,3 +1,7 @@
+# Python 3.7.4 program for plotting parametric
+# Works with Anconda3 (5.2.0) using VS Python Suport
+# Source code can be used in Spyder also
+
 from mpl_toolkits.mplot3d import Axes3D
 from numpy import linspace, sin, cos, pi
 from pylab import title, figure, subplot, plot, legend, show

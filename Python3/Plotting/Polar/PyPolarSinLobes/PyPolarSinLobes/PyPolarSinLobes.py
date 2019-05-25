@@ -1,3 +1,7 @@
+# Python 3.7.4 program for plotting lobes
+# Works with Anconda3 (5.2.0) using VS Python Suport
+# Source code can be used in Spyder also
+
 from numpy import arange, sin, cos, pi
 from pylab import figure, polar, show
 

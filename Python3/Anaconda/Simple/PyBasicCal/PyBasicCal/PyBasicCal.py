@@ -1,4 +1,6 @@
-# Python program for simple calculator 
+# Simple Calculator Python Program
+# Anconda3 (5.2.0) using VS Python Suport
+# Code can be used in Spyder also
 
 # Add two numbers 
 def add(num1, num2): 

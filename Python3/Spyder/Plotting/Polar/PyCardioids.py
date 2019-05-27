@@ -35,6 +35,11 @@ def cardioidncos(a, b):
     heading = "%s + %s * -cos(t)"%(a, b)
     title(heading)
 
+def input2num():
+    num1 = int(input("First number: "))
+    num2 = int(input("Second number: "))
+    return (num1, num2)
+
 print("Pick Cardioid type -\n"
 		"1. sin\n"
 		"2. -sin\n"
@@ -50,10 +55,14 @@ select = input("Select operations form 1, 2, 3, 4 :")
 
 # or
 
-astring = input ('Enter a: ')  
-bstring = input ('Enter b: ')
-a = int(astring)
-b = int(bstring)
+# astring = input ('Enter a: ')  
+# bstring = input ('Enter b: ')
+# a = int(astring)
+# b = int(bstring)
+
+# or
+
+(a, b) = input2num()
 
 
 if select == '1': 

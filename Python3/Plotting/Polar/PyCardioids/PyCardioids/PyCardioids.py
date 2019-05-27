@@ -21,9 +21,6 @@ def cardioidnsin(a, b):
     heading = "%s + %s * -sin(t)"%(a, b)
     title(heading)
 
-
-
-
 # Function to plot cardioid with cos()
 def cardioidpcos(a, b):
     t = arange(0, 2*pi, .01)

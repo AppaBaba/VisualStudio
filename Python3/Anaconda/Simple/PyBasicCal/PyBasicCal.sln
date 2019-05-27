@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyBasicCal", "PyBasicCal\PyBasicCal.pyproj", "{3D108466-641E-4AE7-8BC8-55671F92194F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D108466-641E-4AE7-8BC8-55671F92194F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D108466-641E-4AE7-8BC8-55671F92194F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0BCA65F-DE04-414F-B9CE-302CCB9ACE2D}
+	EndGlobalSection
+EndGlobal

@@ -10,3 +10,4 @@ for i in range(50):
         s = s + 2
         right(5)
 forward(s/2)
+done()

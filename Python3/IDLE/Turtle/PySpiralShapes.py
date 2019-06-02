@@ -14,4 +14,5 @@ for k in s:
             right(a)
             d = d + 8 - k
     a = a - 30
+done()
     

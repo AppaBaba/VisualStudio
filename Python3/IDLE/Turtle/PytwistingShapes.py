@@ -16,3 +16,4 @@ for k in s:
             right(5)
     a = a - 30
 forward(d/2)
+done()

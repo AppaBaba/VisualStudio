@@ -24,3 +24,16 @@ C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.
 C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.CoreCompileInputs.cache
 C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.exe
 C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.pdb
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.pdb
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csprojAssemblyReference.cache
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.baml
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\App.g.cs
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF_MarkupCompile.cache
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.g.resources
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.Properties.Resources.resources
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.GenerateResource.cache
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.exe
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.pdb
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe.config

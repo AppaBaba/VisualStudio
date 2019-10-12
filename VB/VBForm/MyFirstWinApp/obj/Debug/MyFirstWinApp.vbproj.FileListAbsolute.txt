@@ -19,3 +19,13 @@ C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyFirstWinApp\obj\Debug\M
 C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyFirstWinApp\obj\Debug\MyFirstWinApp.exe
 C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyFirstWinApp\obj\Debug\MyFirstWinApp.xml
 C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyFirstWinApp\obj\Debug\MyFirstWinApp.pdb
+C:\Users\darel\source\repos\VS\VB\VBForm\MyFirstWinApp\bin\Debug\MyFirstWinApp.exe.config
+C:\Users\darel\source\repos\VS\VB\VBForm\MyFirstWinApp\bin\Debug\MyFirstWinApp.exe
+C:\Users\darel\source\repos\VS\VB\VBForm\MyFirstWinApp\bin\Debug\MyFirstWinApp.pdb
+C:\Users\darel\source\repos\VS\VB\VBForm\MyFirstWinApp\bin\Debug\MyFirstWinApp.xml
+C:\Users\darel\source\repos\VS\VB\VBForm\MyFirstWinApp\obj\Debug\MyFirstWinApp.vbprojAssemblyReference.cache
+C:\Users\darel\source\repos\VS\VB\VBForm\MyFirstWinApp\obj\Debug\MyFirstWinApp.Resources.resources
+C:\Users\darel\source\repos\VS\VB\VBForm\MyFirstWinApp\obj\Debug\MyFirstWinApp.vbproj.GenerateResource.cache
+C:\Users\darel\source\repos\VS\VB\VBForm\MyFirstWinApp\obj\Debug\MyFirstWinApp.exe
+C:\Users\darel\source\repos\VS\VB\VBForm\MyFirstWinApp\obj\Debug\MyFirstWinApp.xml
+C:\Users\darel\source\repos\VS\VB\VBForm\MyFirstWinApp\obj\Debug\MyFirstWinApp.pdb

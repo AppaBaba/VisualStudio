@@ -1,0 +1,2 @@
+C:\Users\darel\source\repos\VS\Console\NodeJS\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsprojAssemblyReference.cache
+C:\Users\darel\source\repos\VS\Console\NodeJS\NodejsConsoleApp1\NodejsConsoleApp1\bin\Microsoft.NodejsTools.WebRole.dll

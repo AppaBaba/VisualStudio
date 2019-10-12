@@ -29,3 +29,13 @@ C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\SayMyName\obj\Debug\S
 C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\SayMyName\obj\Debug\SayMyName.exe
 C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\SayMyName\obj\Debug\SayMyName.xml
 C:\Users\darel\Documents\GitHub\VisualStudio\Console\VBCon\SayMyName\obj\Debug\SayMyName.pdb
+C:\Users\darel\source\repos\VS\Console\VBCon\SayMyName\bin\Debug\SayMyName.exe.config
+C:\Users\darel\source\repos\VS\Console\VBCon\SayMyName\bin\Debug\SayMyName.exe
+C:\Users\darel\source\repos\VS\Console\VBCon\SayMyName\bin\Debug\SayMyName.pdb
+C:\Users\darel\source\repos\VS\Console\VBCon\SayMyName\bin\Debug\SayMyName.xml
+C:\Users\darel\source\repos\VS\Console\VBCon\SayMyName\obj\Debug\SayMyName.vbprojAssemblyReference.cache
+C:\Users\darel\source\repos\VS\Console\VBCon\SayMyName\obj\Debug\SayMyName.Resources.resources
+C:\Users\darel\source\repos\VS\Console\VBCon\SayMyName\obj\Debug\SayMyName.vbproj.GenerateResource.cache
+C:\Users\darel\source\repos\VS\Console\VBCon\SayMyName\obj\Debug\SayMyName.exe
+C:\Users\darel\source\repos\VS\Console\VBCon\SayMyName\obj\Debug\SayMyName.xml
+C:\Users\darel\source\repos\VS\Console\VBCon\SayMyName\obj\Debug\SayMyName.pdb

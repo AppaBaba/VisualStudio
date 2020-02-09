@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>db193525-26ff-43e5-8dd5-d684b57f5413</ProjectGuid>
+    <ProjectGuid>02839864-282c-4fb1-9ebb-f705f256b645</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>PySubplots.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>PySubplots</Name>
-    <RootNamespace>PySubplots</RootNamespace>
+    <Name>PySubplot</Name>
+    <RootNamespace>PySubplot</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
